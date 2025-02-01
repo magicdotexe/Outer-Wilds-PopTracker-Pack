@@ -1,0 +1,285 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
+  {
+    "name": "Spacesuit",
+    "type": "toggle",
+    "img": "images/items/Spacesuit.png",
+    "codes": "suit"
+  },
+  {
+    "name": "Launch Codes",
+    "type": "toggle",
+    "img": "images/items/Launch Codes.png",
+    "codes": "ship"
+  },
+  {
+    "name": "Scout",
+    "type": "toggle",
+    "img": "images/items/Scout.png",
+    "codes": "scout"
+  },
+  {
+    "name": "Signalscope",
+    "type": "toggle",
+    "img": "images/items/Signalscope.png",
+    "codes": "signalscope"
+  },
+  {
+    "name": "Translator",
+    "type": "toggle",
+    "img": "images/items/Translator.png",
+    "codes": "translator"
+  },
+  {
+    "name": "Translator (Timber Hearth)",
+    "type": "toggle",
+    "img": "images/items/Translator (Timber Hearth).png",
+    "codes": "t_th"
+  },
+  {
+    "name": "Translator (Brittle Hollow)",
+    "type": "toggle",
+    "img": "images/items/Translator (Brittle Hollow).png",
+    "codes": "t_bh"
+  },
+  {
+    "name": "Translator (Hourglass Twins)",
+    "type": "toggle",
+    "img": "images/items/Translator (Hourglass Twins).png",
+    "codes": "t_hgt"
+  },
+  {
+    "name": "Translator (Giant's Deep)",
+    "type": "toggle",
+    "img": "images/items/Translator (Giant's Deep).png",
+    "codes": "t_gd"
+  },
+  {
+    "name": "Translator (Dark Bramble)",
+    "type": "toggle",
+    "img": "images/items/Translator (Dark Bramble).png",
+    "codes": "t_db"
+  },
+  {
+    "name": "Translator (Other)",
+    "type": "toggle",
+    "img": "images/items/Translator (Other).png",
+    "codes": "t_o"
+  },
+  {
+    "name": "Alarm Bypass Patch",
+    "type": "toggle",
+    "img": "images/items/Alarm Bypass Patch.png",
+    "codes": "alarm"
+  },
+  {
+    "name": "Breach Override Codes",
+    "type": "toggle",
+    "img": "images/items/Breach Override Codes.png",
+    "codes": "breach"
+  },
+  {
+    "name": "Cinder Isles Painting Code",
+    "type": "toggle",
+    "img": "images/items/Cinder Isles Painting Code.png",
+    "codes": "ci"
+  },
+  {
+    "name": "Coordinates",
+    "type": "toggle",
+    "img": "images/items/Coordinates.png",
+    "codes": "coordinates"
+  },
+  {
+    "name": "Deep Space Radio Frequency",
+    "type": "toggle",
+    "img": "images/items/Deep Space Radio Frequency.png",
+    "codes": "dsr_f"
+  },
+  {
+    "name": "Distress Beacon Frequency",
+    "type": "toggle",
+    "img": "images/items/Distress Beacon Frequency.png",
+    "codes": "db_f"
+  },
+  {
+    "name": "Dream Totem Patch",
+    "type": "toggle",
+    "img": "images/items/Dream Totem Patch.png",
+    "codes": "totem"
+  },
+  {
+    "name": "Electrical Insulation",
+    "type": "toggle",
+    "img": "images/items/Electrical Insulation.png",
+    "codes": "jelly"
+  },
+  {
+    "name": "Entanglement Rule",
+    "type": "toggle",
+    "img": "images/items/Entanglement Rule.png",
+    "codes": "entanglement"
+  },
+  {
+    "name": "Ghost Matter Wavelength",
+    "type": "toggle",
+    "img": "images/items/Ghost Matter Wavelength.png",
+    "codes": "ghost"
+  },
+  {
+    "name": "Hidden Gorge Painting Code",
+    "type": "toggle",
+    "img": "images/items/Hidden Gorge Painting Code.png",
+    "codes": "hg"
+  },
+  {
+    "name": "Hide & Seek Frequency",
+    "type": "toggle",
+    "img": "images/items/Hide & Seek Frequency.png",
+    "codes": "hs_f"
+  },
+  {
+    "name": "Imaging Rule",
+    "type": "toggle",
+    "img": "images/items/Imaging Rule.png",
+    "codes": "imaging"
+  },
+  {
+    "name": "Limbo Warp Patch",
+    "type": "toggle",
+    "img": "images/items/Limbo Warp Patch.png",
+    "codes": "limbo"
+  },
+  {
+    "name": "Nomai Warp Codes",
+    "type": "toggle",
+    "img": "images/items/Nomai Warp Codes.png",
+    "codes": "warppads"
+  },
+  {
+    "name": "Projection Range Patch",
+    "type": "toggle",
+    "img": "images/items/Projection Range Patch.png",
+    "codes": "projection"
+  },
+  {
+    "name": "Quantum Fluctuations Frequency",
+    "type": "toggle",
+    "img": "images/items/Quantum Fluctuations Frequency.png",
+    "codes": "qf_f"
+  },
+  {
+    "name": "Raft Docks Patch",
+    "type": "toggle",
+    "img": "images/items/Raft Docks Patch.png",
+    "codes": "raft"
+  },
+  {
+    "name": "River Lowlands Painting Code",
+    "type": "toggle",
+    "img": "images/items/River Lowlands Painting Code.png",
+    "codes": "rl"
+  },
+  {
+    "name": "Shrine Door Codes",
+    "type": "toggle",
+    "img": "images/items/Shrine Door Codes.png",
+    "codes": "shrine"
+  },
+  {
+    "name": "Silent Running Mode",
+    "type": "toggle",
+    "img": "images/items/Silent Running Mode.png",
+    "codes": "fish"
+  },
+  {
+    "name": "Stranger Light Modulator",
+    "type": "toggle",
+    "img": "images/items/Stranger Light Modulator.png",
+    "codes": "flashlight"
+  },
+  {
+    "name": "Tornado Aerodynamic Adjustments",
+    "type": "toggle",
+    "img": "images/items/Tornado Aerodynamic Adjustments.png",
+    "codes": "tornado"
+  },
+  {
+    "name": "Warp Core Installation Manual",
+    "type": "toggle",
+    "img": "images/items/Warp Core Installation Manual.png",
+    "codes": "warpcore"
+  },
+  {
+    "name": "Quantum Moon Signal",
+    "type": "toggle",
+    "img": "images/items/Quantum Moon Signal.png",
+    "codes": "moon"
+  },
+  {
+    "name": "Escape Pod 3 Signal",
+    "type": "toggle",
+    "img": "images/items/Escape Pod 3 Signal.png",
+    "codes": "ep3"
+  },
+  {
+    "name": "Feldspar's Signal",
+    "type": "toggle",
+    "img": "images/items/Feldspar's Signal.png",
+    "codes": "feldspar"
+  },
+  {
+    "name": "Neighbor's Distress Signal Frequency",
+    "type": "toggle",
+    "img": "images/items/Neighbor's Distress Signal Frequency.png",
+    "codes": "nds_f"
+  },
+  {
+    "name": "Lava Core Signals Frequency",
+    "type": "toggle",
+    "img": "images/items/Lava Core Signals Frequency.png",
+    "codes": "lcs_f"
+  },
+  {
+    "name": "Galactic Communication Frequency",
+    "type": "toggle",
+    "img": "images/items/Galactic Communication Frequency.png",
+    "codes": "gc_f"
+  },
+  {
+    "name": "Astral Codec Frequency",
+    "type": "toggle",
+    "img": "images/items/Astral Codec Frequency.png",
+    "codes": "ac_f"
+  },
+  {
+    "name": "Memory Cube Interface",
+    "type": "toggle",
+    "img": "images/items/Memory Cube Interface.png",
+    "codes": "cube"
+  },
+  {
+    "name": "Magistarium Library Access Code",
+    "type": "toggle",
+    "img": "images/items/Magistarium Library Access Code.png",
+    "codes": "library"
+  },
+  {
+    "name": "Magistarium Dormitory Access Code",
+    "type": "toggle",
+    "img": "images/items/Magistarium Dormitory Access Code.png",
+    "codes": "dorm"
+  },
+  {
+    "name": "Magistarium Engine Access Code",
+    "type": "toggle",
+    "img": "images/items/Magistarium Engine Access Code.png",
+    "codes": "engine"
+  },
+  {
+    "name": "Hearthian Radio Frequency",
+    "type": "toggle",
+    "img": "images/items/Hearthian Radio Frequency.png",
+    "codes": "hr_f"
+  },
+]

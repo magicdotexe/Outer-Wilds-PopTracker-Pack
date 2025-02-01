@@ -1,0 +1,93 @@
+{
+  "shared_item_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "3, 3",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "suit",
+                "ship",
+                "scout",
+                "translator",
+                "t_hgt"
+              ],
+              [
+                "t_th",
+                "t_bh",
+                "t_gd",
+                "t_db",
+                "t_o"
+              ],
+              [
+                "signalscope",
+                "hs_f",
+                "qf_f",
+                "db_f",
+                "dsr_f"
+              ],
+              [
+                "ghost",
+                "imaging",
+                "entanglement",
+                "moon",
+                "feldspar"
+              ],
+              [
+                "",
+                "tornado",
+                "jelly",
+                "fish",
+                "ep3"
+              ],
+              [
+                "",
+                "shrine",
+                "warppads",
+                "warpcore",
+                "coordinates"
+              ],
+              [
+                "flashlight",
+                "breach",
+                "rl",
+                "ci",
+                "hg"
+              ],
+              [
+                "raft",
+                "limbo",
+                "projection",
+                "alarm",
+                "totem"
+              ],
+              [
+                "nds_f",
+                "lcs_f",
+                "gc_f",
+                "ac_f",
+                "hr_f"
+              ],
+              [
+                "",
+                "cube",
+                "library",
+                "dorm",
+                "engine"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
