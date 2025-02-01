@@ -17,4 +17,4 @@ Item icons all handmade by me!
 
 You can find the whole collection here on pixiv: https://www.pixiv.net/en/artworks/126773403
 
-Enjoy it and wanna show support? Do so here: https://ko-fi.com/magi
+Enjoy it and wanna show support? Do so here: https://ko-fi.com/magicdotexe
